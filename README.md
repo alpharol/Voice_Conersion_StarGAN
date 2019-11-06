@@ -61,7 +61,7 @@ python main.py
 For example: restore model at step 200000 and specify the source speaker and target speaker to `SF1` and `TM1`, respectively.
 
 ```bash
-python convert.py --resume_iters 200000 --src_spk p262 --trg_spk p272
+python convert.py --resume_iters 200000 
 ```
 
 <br/>
